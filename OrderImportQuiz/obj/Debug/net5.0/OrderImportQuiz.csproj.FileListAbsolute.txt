@@ -1,0 +1,5 @@
+C:\Users\elias\source\repos\order-import-quiz-EliasJany\OrderImportQuiz\obj\Debug\net5.0\OrderImportQuiz.csprojAssemblyReference.cache
+C:\Users\elias\source\repos\order-import-quiz-EliasJany\OrderImportQuiz\obj\Debug\net5.0\OrderImportQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\source\repos\order-import-quiz-EliasJany\OrderImportQuiz\obj\Debug\net5.0\OrderImportQuiz.AssemblyInfoInputs.cache
+C:\Users\elias\source\repos\order-import-quiz-EliasJany\OrderImportQuiz\obj\Debug\net5.0\OrderImportQuiz.AssemblyInfo.cs
+C:\Users\elias\source\repos\order-import-quiz-EliasJany\OrderImportQuiz\obj\Debug\net5.0\OrderImportQuiz.csproj.CoreCompileInputs.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D9c70rFUvLk+AmmWgEoffbzeBQMEqC++fq6e04AtXGhLBiizlImDHAgr0W6QwjgppItVfASriNGHs5a7AgfC3Q==",
+  "dgSpecHash": "npd7y+8KUVCbeekKQiM1t1+nGWgWLndTaE2L27pQH3HRGoo8q3pss+IYoYHgPIQP7TUuE5GOyg7lq9q1RJlPSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\elias\\Desktop\\OrderImportQuiz\\OrderImportQuiz.csproj",
+  "projectFilePath": "C:\\Users\\elias\\source\\repos\\order-import-quiz-EliasJany\\OrderImportQuiz\\OrderImportQuiz.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

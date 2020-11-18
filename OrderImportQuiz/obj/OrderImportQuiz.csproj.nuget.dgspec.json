@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elias\\Desktop\\OrderImportQuiz\\OrderImportQuiz.csproj": {}
+    "C:\\Users\\elias\\source\\repos\\order-import-quiz-EliasJany\\OrderImportQuiz\\OrderImportQuiz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elias\\Desktop\\OrderImportQuiz\\OrderImportQuiz.csproj": {
+    "C:\\Users\\elias\\source\\repos\\order-import-quiz-EliasJany\\OrderImportQuiz\\OrderImportQuiz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elias\\Desktop\\OrderImportQuiz\\OrderImportQuiz.csproj",
+        "projectUniqueName": "C:\\Users\\elias\\source\\repos\\order-import-quiz-EliasJany\\OrderImportQuiz\\OrderImportQuiz.csproj",
         "projectName": "OrderImportQuiz",
-        "projectPath": "C:\\Users\\elias\\Desktop\\OrderImportQuiz\\OrderImportQuiz.csproj",
+        "projectPath": "C:\\Users\\elias\\source\\repos\\order-import-quiz-EliasJany\\OrderImportQuiz\\OrderImportQuiz.csproj",
         "packagesPath": "C:\\Users\\elias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elias\\Desktop\\OrderImportQuiz\\obj\\",
+        "outputPath": "C:\\Users\\elias\\source\\repos\\order-import-quiz-EliasJany\\OrderImportQuiz\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -23,15 +23,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -42,8 +42,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
